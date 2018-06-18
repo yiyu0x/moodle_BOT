@@ -10,7 +10,7 @@
 
 ## 系統需求
 
-- python3
+- python3 
   - beautifulsoup4
 - JDK
 - Bash
@@ -38,3 +38,11 @@ INPUTPWD 請填入測資路徑 (建議放到input資料夾中)
 ANSPWD 請填入答案檔案路徑 (建議放到output資料夾中)
 
 5. 修改完畢後直接執行`do_it.sh`
+
+### 附加功能
+
+若沒有bash以及JDK環境也可以自己開一個repo設定[travis-ci](https://travis-ci.org/)達成在遠端批改功能
+
+### 比對抄襲
+
+如果需要比對抄襲功能，請將[moss script](http://theory.stanford.edu/~aiken/moss/)放入此repo的根目錄，`do_it.sh`執行時會自動比對
