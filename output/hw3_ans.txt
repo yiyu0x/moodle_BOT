@@ -1,0 +1,17 @@
+Flavor:
+1.Ham $100  2.Turkey breast $200  3.Spicy chicken $300  4.Club $400
+Bread:
+1.White bread $10  2.Grain honey oat $20  3.White bread $30  4.Parmesan oregano $40  5.Hearty italian $50
+Sauce:
+1.Chipotle southwest $10  2.Honey mustard $20  3.Mayonnaise $30  4.Mustard $40  5.Sweet onion $50  6.Spicy wine sauce $60
+
+How many burgers do you want?
+Please select the burger you want:
+Your order:
+1.
+Ham + Grain honey oat + Mayonnaise
+2.
+Club + White bread + Spicy wine sauce
+
+Total price:
+620
